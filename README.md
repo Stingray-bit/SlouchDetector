@@ -38,7 +38,8 @@ SlouchDetector leverages ultrasonic distance sensors to detect when a user is sl
 
 ## Usage
 
-1. Connect the ultrasonic sensors as per the setup instructions.
+1. Connect the ultrasonic sensors as per the [setup instructions](https://github.com/Stingray-bit/SlouchDetector/blob/main/sensor_placement.png).
+
 2. Run the detection script:
    ```bash
    python Detect.py
